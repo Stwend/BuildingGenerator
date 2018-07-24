@@ -1,6 +1,8 @@
 # BuildingGenerator
 My bachelor's thesis, a nodegraph-based generator for all kinds of buildings.
 
+![alt text](https://i.imgur.com/9IfAlzf.png)
+
 
 ## Warnings
 
