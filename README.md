@@ -14,4 +14,4 @@ When loading a .blend file with a "Building" type nodegraph in it, changing anyt
 
 ## Installing
 
-Simply download the zip and load it from inside Blender's plugin manager.
+Simply download the zip and load it from inside Blender's plugin manager. Done.
